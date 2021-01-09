@@ -1,0 +1,21 @@
+
+Hexadecimal = 0123456789ABCDEF
+
+
+RGB = 
+Red Green Blue
+
+#_ _ _ _ _ _ 
+
+2 - primeiros Red
+2 - segundos Green
+2 - ultimos Blue
+
+
+0 = ausencia 
+
+F = maximo 
+
+#000000  Preto
+
+#FFFFFF  Branco
